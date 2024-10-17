@@ -2,14 +2,14 @@
 
 int main() {
 
-    float tempC, tempF;
+    float temp_c, temp_f;
     
     printf("Informe a temperatura em °C: ");
-    scanf("%f", &tempC);
+    scanf("%f", &temp_c);
 
-    tempF = (tempC * 9 / 5) + 32;
+    temp_f = (temp_c * 9 / 5) + 32;
     
-    printf("A temperatura em °F é %.1f", tempF);
+    printf("A temperatura em °F é %.1f", temp_f);
 
     return 0;
 }
