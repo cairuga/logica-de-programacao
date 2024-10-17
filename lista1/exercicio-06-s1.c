@@ -19,7 +19,7 @@ int main() {
     /*    
     Como são apenas dois valores, esta é uma solução simples. 
     Contudo, a partir de três valores, é mais indicado utilizar uma variável auxiliar. 
-    Veja outra solução no arquivo exercicio6-solucao2.c
+    Veja outra solução no arquivo exercicio-06-s2.c
     */
     
     return 0;
