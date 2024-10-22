@@ -5,8 +5,8 @@ int main() {
     int idade, mensalidade;
     char plano;
     
-    printf("R - Regional\n")
-    printf("N - Nacional\n")
+    printf("R - Regional\n");
+    printf("N - Nacional\n");
     printf("Informe o plano: ");
     scanf("%c", &plano);
     
