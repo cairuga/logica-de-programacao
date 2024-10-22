@@ -2,7 +2,8 @@
 
 int main() {
 
-    int idade, mensalidade;
+    int idade;
+    float mensalidade;
     char plano;
     
     printf("R - Regional\n");
@@ -21,7 +22,7 @@ int main() {
     if (plano == 'n' || plano == 'N') mensalidade *= 1.5;
     //poderia ser mensalidade = mensalidade * 1.5;
 
-    printf("O valor da mensalidade é %d", mensalidade);
+    printf("O valor da mensalidade é %f", mensalidade);
 
     return 0;
 }
