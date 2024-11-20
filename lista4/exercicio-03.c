@@ -2,7 +2,7 @@
 
 int main() {
 
-    for (int i=100; i>=1; i--) {
+    for (int i=5; i<=19; i++) {
         printf("%d ", i);
     }
 
