@@ -5,6 +5,10 @@ int main() {
     int quantidade;
     float nota;
 
+    // Esta solução considera que:
+    // - uma nota é um número decimal entre 0 e 10;
+    // - pelo menos uma nota será informada;
+    // - todas as notas informadas estão no intervalo correto.
     
     printf("Informe a quantidade de notas: ");
     scanf("%d", &quantidade);
