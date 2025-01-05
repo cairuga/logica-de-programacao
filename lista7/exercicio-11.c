@@ -3,7 +3,6 @@
 int main() {
 
     int i, qtd_alunos;
-    float maior, menor, soma, media;
 
     printf("Informe a quantidade de alunos: ");
     scanf("%d", &qtd_alunos);
