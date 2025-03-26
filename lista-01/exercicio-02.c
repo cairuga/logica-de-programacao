@@ -12,4 +12,5 @@ int main() {
 	printf("\t- Desinfetante\n");
 	printf("\t- Esponja\n");
 	printf("\t- Sabonete líquido\n");
+	return 0;
 }
